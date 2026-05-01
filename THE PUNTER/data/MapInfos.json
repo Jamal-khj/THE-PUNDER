@@ -1,4 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889}
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889},
+{"id":2,"expanded":true,"name":"MAP002 - Open World","order":2,"parentId":0,"scrollX":1513.7142857142856,"scrollY":963.4285714285713,"quick":false},
+{"id":3,"expanded":true,"name":"MAP003 - Village","order":3,"parentId":2,"scrollX":1500,"scrollY":956.5714285714286,"quick":false}
 ]
